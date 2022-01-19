@@ -3,8 +3,6 @@ A firefox extention for AMOLED theme in Discord web browser.
 
 ## Installation
 
-Clone this repository:
-
 Download the zip file at [release](https://github.com/MiraBellierr/discord-amoled-theme/releases)
     
 Go to `about:debugging` on your firefox browser. Then This Firefox -> Load Temporary Add-on.
