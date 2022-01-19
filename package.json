@@ -1,0 +1,23 @@
+{
+  "name": "discord-amoled-theme",
+  "version": "1.0.0",
+  "description": "An OMOLED theme for Discord",
+  "main": "discord-theme.js",
+  "scripts": {
+    "start:firefox": "web-ext run",
+    "build": "web-ext build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiraBellierr/discord-amoled-theme.git"
+  },
+  "keywords": [
+    "theme"
+  ],
+  "author": "mirabellier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiraBellierr/discord-amoled-theme/issues"
+  },
+  "homepage": "https://github.com/MiraBellierr/discord-amoled-theme#readme"
+}
